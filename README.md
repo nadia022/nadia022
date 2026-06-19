@@ -51,6 +51,7 @@ Passionate Flutter Developer dedicated to building scalable, maintainable, and h
 ## 🌟 Featured Projects
 
 🌍 Omnzer Tourism Platform
+
 📱 Google Play
 https://play.google.com/store/apps/details?id=com.omnzer.app
 
@@ -72,8 +73,4 @@ A Flutter application for discovering books, exploring categories, and viewing d
 
 ---
 
-### 💡 Favorite Quote
 
-> First, solve the problem. Then, write the code.
-
-⭐ Thanks for visiting my profile!
