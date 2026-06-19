@@ -143,6 +143,5 @@ App for discovering books, browsing categories, and viewing detailed book info.
 
 <br/><br/>
 
-<i>💜 Thanks for visiting my profile — let's build something great together!</i>
 
 </div>
