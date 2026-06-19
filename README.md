@@ -12,8 +12,6 @@
 <a href="mailto:nadiaashraff20@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hi-D946EF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=nadia022&label=Profile+Views&color=A855F7&style=for-the-badge"/>
-
 </div>
 
 <br/>
