@@ -20,40 +20,13 @@
 
 ## 🔮 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```
-class NadiaAshraf extends Developer {
-  String role        = "Flutter Developer";
-  String education   = "Faculty of Computers & Information";
-  
-  List<String> focus = [
-    "Clean Architecture & Design Patterns",
-    "Responsive & Adaptive UI",
-    "Scalable, Production-Ready Apps"
-  ];
-  
-  bool isLearning    = true;
-  bool lovesCleanCode = true;
-}
-```
-
-</td>
-<td width="40%" valign="top">
-
-🎓 &nbsp;Graduate, Faculty of Computers & Information  
-📱 &nbsp;Flutter Mobile App Developer  
-🏗️ &nbsp;Clean Architecture & Design Patterns  
-📐 &nbsp;Responsive & Adaptive UI  
-⚡ &nbsp;Cubit • BLoC • Provider  
-🔥 &nbsp;Firebase • Supabase • REST APIs  
-🎯 &nbsp;Clean, maintainable, production-ready code  
-
-</td>
-</tr>
-</table>
+- 🎓 &nbsp;Graduate, Faculty of Computers & Information
+- 📱 &nbsp;Flutter Mobile App Developer
+- 🏗️ &nbsp;Clean Architecture & Design Patterns
+- 📐 &nbsp;Responsive & Adaptive UI
+- ⚡ &nbsp;Cubit • BLoC • Provider
+- 🔥 &nbsp;Firebase • Supabase • REST APIs
+- 🎯 &nbsp;Clean, maintainable, production-ready code
 
 <br/>
 
@@ -171,5 +144,6 @@ App for discovering books, browsing categories, and viewing detailed book info.
 
 <br/><br/>
 
+<i>💜 Thanks for visiting my profile — let's build something great together!</i>
 
 </div>
