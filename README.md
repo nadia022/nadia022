@@ -12,7 +12,7 @@
 <a href="mailto:nadiaashraff20@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hi-D946EF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nadia022&label=Profile+Views&color=A855F7&style=for-the-badge"/>
 
 </div>
 
@@ -66,12 +66,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&icon_color=A855F7&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=D946EF&fire=A855F7&currStreakLabel=D946EF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nadia022&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&icon_color=A855F7&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nadia022&theme=radical&hide_border=true&background=0D1117&ring=D946EF&fire=A855F7&currStreakLabel=D946EF"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia022&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=c9d1d9"/>
 </div>
 
 <br/>
@@ -142,6 +142,5 @@ App for discovering books, browsing categories, and viewing detailed book info.
 </a>
 
 <br/><br/>
-
 
 </div>
